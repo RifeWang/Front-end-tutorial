@@ -1,19 +1,20 @@
 <h1 align="center">Front-end-tutorial</h1>
 
-## [与时俱进版前端资源教程](https://www.jeffjade.com/2017/09/28/127-nice-front-end-tutorial/)
+## [与时俱进版前端资源教程](https://jeffjade.com/2017/09/28/127-nice-front-end-tutorial/)
 
 ### 目标与哲学
 
-众所周知，前端发展如火如荼，日新月异，而且很长一段时间内都将如此。这份由[晚晴幽草轩轩主](https://jeffjade.com)正在维护的教程列表；旨在为`前端学习`，`技能提升`，`视野扩展`，`资料查找`等行个方便。将会在日常工作探索、学习中，持续保持更新，增新优之章，除旧失之文；尽可能使得这份列表保持简练，以避免信息过重且冗杂；望其能在浩如烟海的讯息中，堪有所用。详细说明，可参见：[与时俱进版前端资源教程](https://www.jeffjade.com/2017/09/28/127-nice-front-end-tutorial/)。
+众所周知，前端发展如火如荼，日新月异，而且很长一段时间内都将如此。这份由[晚晴幽草轩轩主](https://jeffjade.com)正在维护的教程列表；旨在为`前端学习`，`技能提升`，`视野扩展`，`资料查找`等行个方便。将会在日常工作探索、学习中，持续保持更新，增新优之章，除旧失之文；尽可能使得这份列表保持简练，以避免信息过重且冗杂；望其能在浩如烟海的讯息中，堪有所用。详细说明，可参见：[与时俱进版前端资源教程](https://jeffjade.com/2017/09/28/127-nice-front-end-tutorial/)。
 
-### 分类目录
+## 分类目录
 
-#### 🐉 The Future
+### 🐉 The Future
+
 - [**AI-ML-DL**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/ai-ml-dl-tutorial.md)
 - [**Pwa**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/pwa-tutorial.md)
 - [WebAssembly](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/webAssembly.md)
 
-#### 🎨 Front-End Tutorial
+### 🎨 Front-End Tutorial
 
 - [大前端综合](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/front-end-tutorial.md)
 - [EcmaScript](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/ecmascript-tutorial.md)
@@ -29,27 +30,29 @@
 - [Optimization](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/optimization-tutorial.md)
 - [Testing](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/testing-tutorial.md)
 
-#### 👽 Back-End Tutorial
+### 👽 Back-End Tutorial
 - [Nodejs](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/nodejs-tutorial.md)
 - [Nginx](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/nginx-tutorial.md)
 - [Mongodb](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/mongodb-tutorial.md)
 - [Redis](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/redis-tutorial.md)
 
-#### 🎣 Front-Back-End Tutorial
+### 🎣 Front-Back-End Tutorial
 - [Tools](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/tools-tutorial.md)
 - [Chrome](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/chrome-tutorial.md)
-- [Git](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/git-tutorial.md)
+- [Git & Github](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/git-tutorial.md)
+- [Markdown](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/markdown-tutorial.md)
 - [Docker](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/docker-tutorial.md)
 - [GraphQL](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/graphql-tutorial.md)
 - [Web Security](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/web-security-tutorial.md)
 
-#### 🌷 Other Wizards List
+### 🌷 Other Wizards List
 - [Front-end Channel](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/front-end-channel.md)
+- [Resume & Interviews](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/resume-interviews-tutorial.md)
 - [Interesting](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/interesting-tutorial.md)
 
 ---
 
->**微注**：在继续学习 & 探索 & 积累，并率先于[『引』最全前端资源汇集](http://www.jeffjade.com/2016/03/30/104-front-end-tutorial/)持续更新。
+>**微注**：在继续学习 & 探索 & 积累，并率先于[『引』最全前端资源汇集](https://jeffjade.com/2016/03/30/104-front-end-tutorial/)持续更新。
 
 ## __综合类__
 
