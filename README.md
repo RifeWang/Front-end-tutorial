@@ -71,17 +71,15 @@
 
 综合类 | 地址
 :----:|:----:
-前端知识体系|http://www.cnblogs.com/sb19871023/p/3894452.html
+大前端综合教程、资源汇总 | https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/front-end-tutorial.md
+Roadmap to becoming a web developer in 2018 | https://github.com/kamranahmedse/developer-roadmap
 前端知识结构|https://github.com/JacksonTian/fks
 Web前端开发大系概览|https://github.com/unruledboy/WebFrontEndStack
-Web前端开发大系概览-中文版|http://www.cnblogs.com/unruledboy/p/WebFrontEndStack.html
-Web Front-end Stack v2.2| [Web Front-end Stack v2.2](https://raw.githubusercontent.com/unruledboy/WebFrontEndStack/master/Web%20Front%20End%20Stack.png)
 免费的编程中文书籍索引|https://github.com/justjavac/free-programming-books-zh_CN
 前端书籍|https://github.com/dypsilon/frontend-dev-bookmarks
 前端免费书籍大全|https://github.com/vhf/free-programming-books
 前端知识体系|http://www.cnblogs.com/sb19871023/p/3894452.html
 免费的编程中文书籍索引|https://github.com/justjavac/free-programming-books-zh_CN
-智能社 - 精通JavaScript开发|http://study.163.com/course/introduction/224014.htm
 重新介绍 JavaScript（JS 教程）|https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 麻省理工学院公开课：计算机科学及编程导论|http://v.163.com/special/opencourse/bianchengdaolun.html
 JavaScript中的this陷阱的最全收集--没有之一|http://segmentfault.com/a/1190000002640298
@@ -98,16 +96,11 @@ Front-End-Develop-Guide 前端开发指南|https://github.com/Front-End-Develope
 工具类| 地址
 :----:|:----:
 倾城**利器**之家 | https://nicelinks.site/theme/tools 为极大提升效率而存
+Web 开发工程师工具推荐 | https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/tools-tutorial.md
 __前端人的俱乐部__| http://f2er.club/ 真可以解放你的收藏夹
 如何优雅地使用Sublime Text|http://www.jeffjade.com/2015/12/15/2015-04-17-toss-sublime-text/#
 新编码神器Atom使用纪要|http://www.jeffjade.com/2016/03/03/2016-03-02-how-to-use-atom/
-css sprite 雪碧图制作|http://www.imooc.com/learn/93
-版本控制入门 – 搬进 Github|http://www.imooc.com/learn/390
-Grunt-beginner前端自动化工具|http://www.imooc.com/learn/30
 IntelliJ IDEA 简体中文专题教程|https://github.com/judasn/IntelliJ-IDEA-Tutorial
-SublimeText|https://github.com/jikeytang/sublime-text
-Atom|https://atom.io
-visual studio code|https://code.visualstudio.com
 
 ## __综合效果搜索平台__
 
@@ -150,18 +143,47 @@ codepen|http://codepen.io/
 
 团队Blog-Name | 地址
 :----:|:----:
-**腾讯ISUX**|http://isux.tencent.com
-__奇舞周刊__ | http://old.75team.com/weekly/
-淘宝前端团队（FED）|http://taobaofed.org
-码农周刊|http://weekly.manong.io
-凹凸实验室|https://aotu.io/
-WEB前端开发|http://www.css88.com
-A JS tip per day! |http://www.jstips.co
-腾讯全端 AlloyTeam |http://www.alloyteam.com/webdevelop/
-阿里巴巴-U一点|http://www.aliued.cn
-百度WEB前端研发部|http://fex.baidu.com
-携程设计委员会|http://ued.ctrip.com/blog/
-平安科技移动开发二队技术周报|https://github.com/PaicHyperionDev/MobileDevWeekly
+腾讯 ISUX | http://isux.tencent.com
+腾讯全端 AlloyTeam | http://www.alloyteam.com/webdevelop/
+奇舞周刊 | http://old.75team.com/weekly/
+阿里巴巴 -U 一点 | http://www.aliued.cn
+淘宝前端团队 (FED) | http://taobaofed.org
+网易 FEG 前端团队 | http://feg.netease.com/
+网易用户体验中心 | http://uedc.163.com/
+码农周刊 | http://weekly.manong.io
+凹凸实验室 ( 京东 ) | https://aotu.io/
+WEB 前端开发 | http://www.css88.com
+百度 WEB 前端研发部 | http://fex.baidu.com
+搜车大无线团队博客 | http://f2e.souche.com/blog/
+饿了么大前端 | https://zhuanlan.zhihu.com/ElemeFE
+美团点评技术团队 | https://tech.meituan.com/
+携程设计委员会 | http://ued.ctrip.com/blog/
+前端观察 ( 腾讯 ) | https://www.qianduan.net/
+前端外刊评论 | https://qianduan.group/
+Awesomes-Web 前端开发资源库 | https://www.awesomes.cn/
+掘进|发现|前端 | https://juejin.im/explore/frontend
+Segmentfault|头条|前端 | https://segmentfault.com/news/frontend
+开发者头条|前端 | https://toutiao.io/c/fe
+A JS tip per day!  | http://www.jstips.co
+CodePen - Front End Developer Playground | https://codepen.io/
+Reloading – Medium | https://medium.com/reloading
+Cybersecurity – Medium | https://medium.com/topic/cybersecurity
+Hacker Noon | https://hackernoon.com/
+Frontend Focus | https://frontendfoc.us/
+JavaScript Weekly | http://javascriptweekly.com/
+Css Weekly | http://css-weekly.com/
+Web Design Weekly | https://web-design-weekly.com/
+Web Tools Weekly | https://webtoolsweekly.com/
+Learn CSS Animation | https://cssanimation.rocks/
+Hack Design | https://hackdesign.org/
+Codeburst | https://codeburst.io/
+SitePen Blog | https://www.sitepen.com/blog/
+JavaScript Weekly ^subscribe | http://javascriptweekly.com/issues
+Frontend Focus ^subscribe | https://frontendfoc.us/issues
+WebOps Weekly ^subscribe | https://webopsweekly.com/issues
+Node Weekly ^subscribe | https://nodeweekly.com/issues
+Mobile Dev Weekly ^subscribe | https://mobilewebweekly.com/issues
+Front-end Web Development, Chewed Up &larr; Alligator.io | https://alligator.io/
 
 ## __开发中心__
 
