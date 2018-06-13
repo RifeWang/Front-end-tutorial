@@ -50,6 +50,19 @@
 - [Resume & Interviews](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/resume-interviews-tutorial.md)
 - [Interesting](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/interesting-tutorial.md)
 
+## 相关链接
+
+- [**倾城之链**](https://nicelinks.site?from=github)
+- [About Me](https://about.me/nicejade)
+- [个人博客](https://jeffjade.com/nicelinks)
+- [辅助博客](https://blog.lovejade.cn/)
+- [新浪微博](https://weibo.com/jeffjade)
+- [知乎主页](https://www.zhihu.com/people/yang-qiong-pu/)
+- [简书主页](https://www.jianshu.com/u/9aae3d8f4c3d)
+- [SegmentFault](https://segmentfault.com/u/jeffjade)
+- [Twitter](https://twitter.com/jeffjade2)
+- [Facebook](https://www.facebook.com/yang.gang.jade)
+
 ---
 
 >**微注**：在继续学习 & 探索 & 积累，并率先于[『引』最全前端资源汇集](https://jeffjade.com/2016/03/30/104-front-end-tutorial/)持续更新。
@@ -80,19 +93,11 @@ Front-End-Develop-Guide 前端开发指南|https://github.com/Front-End-Develope
 大前端工具集 - 聂微东|https://github.com/nieweidong/fetool
 前端开发者手册|https://dwqs.gitbooks.io/frontenddevhandbook/content
 
-## __入门类__
-
-入门类 | 地址
-:----:|:----:
-前端入门教程|http://www.cnblogs.com/jikey/p/3613082.html
-瘳雪峰的Javascript教程|http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000
-前端工程师必备的PS技能——切图篇|http://www.imooc.com/view/506
-结合个人经历总结的前端入门方法|https://github.com/qiu-deqing/FE-learning
-
 ## __工具类__
 
 工具类| 地址
 :----:|:----:
+倾城**利器**之家 | https://nicelinks.site/theme/tools 为极大提升效率而存
 __前端人的俱乐部__| http://f2er.club/ 真可以解放你的收藏夹
 如何优雅地使用Sublime Text|http://www.jeffjade.com/2015/12/15/2015-04-17-toss-sublime-text/#
 新编码神器Atom使用纪要|http://www.jeffjade.com/2016/03/03/2016-03-02-how-to-use-atom/
@@ -109,6 +114,12 @@ visual studio code|https://code.visualstudio.com
 综合效果搜索平台 | 地址
 :----:|:----:
 **JavaScript 资源大全中文版**|https://github.com/jobbole/awesome-javascript-cn
+倾城**美图**之家 | https://nicelinks.site/theme/picture 高质量图库集
+倾城**设计**之家 | https://nicelinks.site/theme/design 设计师的修道场
+倾城**程序**之家 | https://nicelinks.site/theme/program 程序网站导航
+倾城**图标**之家 | https://nicelinks.site/theme/icons 云集高质量图标社区
+倾城**社区**之家 | https://nicelinks.site/theme/community 云集高质量交流社区
+倾城**搜索**直接 | https://nicelinks.site/theme/search 综合 Google 搜索引擎替代品
 **100+ 超全的web开发工具和资源**|https://xituqu.com/170.html
 **设计师网址导航**|http://hao.uisdc.com/
 Web前端导航(Alloyteam)|http://www.alloyteam.com/nav/
@@ -125,6 +136,15 @@ New Old Stock|http://nos.twnsnd.co 复古风图库
 codepen|http://codepen.io/
 摄图网|http://699pic.com/
 常用的JavaScript代码片段|http://microjs.com
+
+## __入门类__
+
+入门类 | 地址
+:----:|:----:
+前端入门教程|http://www.cnblogs.com/jikey/p/3613082.html
+瘳雪峰的Javascript教程|http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000
+前端工程师必备的PS技能——切图篇|http://www.imooc.com/view/506
+结合个人经历总结的前端入门方法|https://github.com/qiu-deqing/FE-learning
 
 ## __团队Blog__
 
@@ -1185,4 +1205,3 @@ SegmentFault写的Markdown解析器|https://github.com/SegmentFault/HyperDown.js
 * [SublimeText下写作利器之MarkdownEditing](http://www.jeffjade.com/2015/08/28/2015-08-28-Write-Morkdown/)
 * [Mac必备软件渐集之ZSH－终极Shell](http://www.jeffjade.com/2015/07/29/2015-07-29-mac-musthave-software/)
 * [Vimium~让您的Chrome起飞](http://www.jeffjade.com/2015/10/19/2015-10-18-chrome-vimium/)
-
