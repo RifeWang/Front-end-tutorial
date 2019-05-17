@@ -1,71 +1,90 @@
 <h1 align="center">Front-end-tutorial</h1>
 
-## [与时俱进版前端资源教程](https://www.jeffjade.com/2017/09/28/127-nice-front-end-tutorial/)
+## [与时俱进版前端资源教程](https://jeffjade.com/2017/09/28/127-nice-front-end-tutorial/)
 
 ### 目标与哲学
 
-众所周知，前端发展如火如荼，日新月异，而且很长一段时间内都将如此。这份由[晚晴幽草轩轩主](https://jeffjade.com)正在维护的教程列表；旨在为`前端学习`，`技能提升`，`视野扩展`，`资料查找`等行个方便。将会在日常工作探索、学习中，持续保持更新，增新优之章，除旧失之文；尽可能使得这份列表保持简练，以避免信息过重且冗杂；望其能在浩如烟海的讯息中，堪有所用。详细说明，可参见：[与时俱进版前端资源教程](https://www.jeffjade.com/2017/09/28/127-nice-front-end-tutorial/)。
+众所周知，前端发展如火如荼，日新月异，而且很长一段时间内都将如此。这份由[晚晴幽草轩轩主](https://jeffjade.com)正在维护的教程列表；旨在为`前端学习`，`技能提升`，`视野扩展`，`资料查找`等行个方便。将会在日常工作探索、学习中，持续保持更新，增新优之章，除旧失之文；尽可能使得这份列表保持简练，以避免信息过重且冗杂；望其能在浩如烟海的讯息中，堪有所用。详细说明，可参见：[与时俱进版前端资源教程](https://jeffjade.com/2017/09/28/127-nice-front-end-tutorial/)。
+## 分类目录
 
-### 分类目录
+### 🐉 The Future
 
-#### 🐉 The Future
-- [**AI-ML-DL**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/ai-ml-dl-tutorial.md)
-- [**Pwa**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/pwa-tutorial.md)
-- [WebAssembly](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/webAssembly.md)
+* [**AI-ML-DL**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/ai-ml-dl-tutorial.md)
+* [**Pwa**](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/pwa-tutorial.md)
+* [WebAssembly](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/webAssembly.md)
 
-#### 🎨 Front-End Tutorial
+### 🎨 Front-End Tutorial
 
-- [大前端综合](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/front-end-tutorial.md)
-- [EcmaScript](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/ecmascript-tutorial.md)
-- [Html(5)](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/html-tutorial.md)
-- [Css(3)](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/css3-tutorial.md)
-- [Framework News](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/framework-news.md)
-- [Vue](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/vue-tutorial.md)
-- [React](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/react-tutorial.md)
-- [Angular](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/angular-tutorial.md)
-- [Webpack](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/webpack-tutorial.md)
-- [Gulp](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/gulp-tutorial.md)
-- [UI](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/ui-tutorial.md)
-- [Optimization](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/optimization-tutorial.md)
-- [Testing](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/testing-tutorial.md)
+* [大前端综合](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/front-end-tutorial.md)
+* [EcmaScript](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/ecmascript-tutorial.md)
+* [Html(5)](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/html-tutorial.md)
+* [Css(3)](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/css3-tutorial.md)
+* [Framework News](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/framework-news.md)
+* [Vue](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/vue-tutorial.md)
+* [React](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/react-tutorial.md)
+* [Angular](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/angular-tutorial.md)
+* [快应用 ✨](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/quickapp-tutorial.md)
+* [微信小程序 ✨](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/wechat-mini-program-tutorial.md)
+* [Webpack](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/webpack-tutorial.md)
+* [Gulp](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/gulp-tutorial.md)
+* [UI UI UI](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/ui-tutorial.md)
+* [Optimization](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/optimization-tutorial.md)
+* [Testing](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/testing-tutorial.md)
 
-#### 👽 Back-End Tutorial
-- [Nodejs](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/nodejs-tutorial.md)
-- [Nginx](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/nginx-tutorial.md)
-- [Mongodb](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/mongodb-tutorial.md)
-- [Redis](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/redis-tutorial.md)
+### 👽 Back-End Tutorial
 
-#### 🎣 Front-Back-End Tutorial
-- [Tools](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/tools-tutorial.md)
-- [Chrome](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/chrome-tutorial.md)
-- [Git](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/git-tutorial.md)
-- [Docker](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/docker-tutorial.md)
-- [GraphQL](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/graphql-tutorial.md)
-- [Web Security](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/web-security-tutorial.md)
+* [Nodejs](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/nodejs-tutorial.md)
+* [Nginx](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/nginx-tutorial.md)
+* [Mongodb](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/mongodb-tutorial.md)
+* [Redis](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/redis-tutorial.md)
 
-#### 🌷 Other Wizards List
-- [Front-end Channel](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/front-end-channel.md)
-- [Interesting](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/interesting-tutorial.md)
+### 🎣 Front-Back-End Tutorial
+
+* [Tools](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/tools-tutorial.md)
+* [Chrome](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/chrome-tutorial.md)
+* [Git & Github](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/git-tutorial.md)
+* [Markdown](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/markdown-tutorial.md)
+* [Docker](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/docker-tutorial.md)
+* [Kubernetes](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/kubernetes-tutorial.md)
+* [GraphQL](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/graphql-tutorial.md)
+* [Web Security](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/web-security-tutorial.md)
+
+### 🌷 Other Wizards List
+
+* [Front-end Channel](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/front-end-channel.md)
+* [Resume & Interviews](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/resume-interviews-tutorial.md)
+* [Interesting](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/interesting-tutorial.md)
+
+## 相关链接
+
+- [**倾城之链**](https://nicelinks.site?from=github)
+- [About Me](https://about.me/nicejade)
+- [个人博客](https://jeffjade.com/nicelinks)
+- [辅助博客](https://blog.lovejade.cn/)
+- [新浪微博](https://weibo.com/jeffjade)
+- [知乎主页](https://www.zhihu.com/people/yang-qiong-pu/)
+- [简书主页](https://www.jianshu.com/u/9aae3d8f4c3d)
+- [SegmentFault](https://segmentfault.com/u/jeffjade)
+- [Twitter](https://twitter.com/jeffjade2)
+- [Facebook](https://www.facebook.com/yang.gang.jade)
 
 ---
 
->**微注**：在继续学习 & 探索 & 积累，并率先于[『引』最全前端资源汇集](http://www.jeffjade.com/2016/03/30/104-front-end-tutorial/)持续更新。
+>**微注**：在继续学习 & 探索 & 积累，并率先于[『引』最全前端资源汇集](https://jeffjade.com/2016/03/30/104-front-end-tutorial/)持续更新。
 
 ## __综合类__
 
 综合类 | 地址
 :----:|:----:
-前端知识体系|http://www.cnblogs.com/sb19871023/p/3894452.html
+大前端综合教程、资源汇总 | https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/front-end-tutorial.md
+Roadmap to becoming a web developer in 2018 | https://github.com/kamranahmedse/developer-roadmap
 前端知识结构|https://github.com/JacksonTian/fks
 Web前端开发大系概览|https://github.com/unruledboy/WebFrontEndStack
-Web前端开发大系概览-中文版|http://www.cnblogs.com/unruledboy/p/WebFrontEndStack.html
-Web Front-end Stack v2.2| [Web Front-end Stack v2.2](https://raw.githubusercontent.com/unruledboy/WebFrontEndStack/master/Web%20Front%20End%20Stack.png)
 免费的编程中文书籍索引|https://github.com/justjavac/free-programming-books-zh_CN
 前端书籍|https://github.com/dypsilon/frontend-dev-bookmarks
 前端免费书籍大全|https://github.com/vhf/free-programming-books
 前端知识体系|http://www.cnblogs.com/sb19871023/p/3894452.html
 免费的编程中文书籍索引|https://github.com/justjavac/free-programming-books-zh_CN
-智能社 - 精通JavaScript开发|http://study.163.com/course/introduction/224014.htm
 重新介绍 JavaScript（JS 教程）|https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 麻省理工学院公开课：计算机科学及编程导论|http://v.163.com/special/opencourse/bianchengdaolun.html
 JavaScript中的this陷阱的最全收集--没有之一|http://segmentfault.com/a/1190000002640298
@@ -77,35 +96,28 @@ Front-End-Develop-Guide 前端开发指南|https://github.com/Front-End-Develope
 大前端工具集 - 聂微东|https://github.com/nieweidong/fetool
 前端开发者手册|https://dwqs.gitbooks.io/frontenddevhandbook/content
 
-## __入门类__
-
-入门类 | 地址
-:----:|:----:
-前端入门教程|http://www.cnblogs.com/jikey/p/3613082.html
-瘳雪峰的Javascript教程|http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000
-前端工程师必备的PS技能——切图篇|http://www.imooc.com/view/506
-结合个人经历总结的前端入门方法|https://github.com/qiu-deqing/FE-learning
-
 ## __工具类__
 
 工具类| 地址
 :----:|:----:
+倾城**利器**之家 | https://nicelinks.site/theme/tools 为极大提升效率而存
+Web 开发工程师工具推荐 | https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/tools-tutorial.md
 __前端人的俱乐部__| http://f2er.club/ 真可以解放你的收藏夹
 如何优雅地使用Sublime Text|http://www.jeffjade.com/2015/12/15/2015-04-17-toss-sublime-text/#
 新编码神器Atom使用纪要|http://www.jeffjade.com/2016/03/03/2016-03-02-how-to-use-atom/
-css sprite 雪碧图制作|http://www.imooc.com/learn/93
-版本控制入门 – 搬进 Github|http://www.imooc.com/learn/390
-Grunt-beginner前端自动化工具|http://www.imooc.com/learn/30
 IntelliJ IDEA 简体中文专题教程|https://github.com/judasn/IntelliJ-IDEA-Tutorial
-SublimeText|https://github.com/jikeytang/sublime-text
-Atom|https://atom.io
-visual studio code|https://code.visualstudio.com
 
 ## __综合效果搜索平台__
 
 综合效果搜索平台 | 地址
 :----:|:----:
 **JavaScript 资源大全中文版**|https://github.com/jobbole/awesome-javascript-cn
+倾城**美图**之家 | https://nicelinks.site/theme/picture 高质量图库集
+倾城**设计**之家 | https://nicelinks.site/theme/design 设计师的修道场
+倾城**程序**之家 | https://nicelinks.site/theme/program 程序网站导航
+倾城**图标**之家 | https://nicelinks.site/theme/icons 云集高质量图标社区
+倾城**社区**之家 | https://nicelinks.site/theme/community 云集高质量交流社区
+倾城**搜索**直接 | https://nicelinks.site/theme/search 综合 Google 搜索引擎替代品
 **100+ 超全的web开发工具和资源**|https://xituqu.com/170.html
 **设计师网址导航**|http://hao.uisdc.com/
 Web前端导航(Alloyteam)|http://www.alloyteam.com/nav/
@@ -123,22 +135,60 @@ codepen|http://codepen.io/
 摄图网|http://699pic.com/
 常用的JavaScript代码片段|http://microjs.com
 
+## __入门类__
+
+入门类 | 地址
+:----:|:----:
+前端入门教程|http://www.cnblogs.com/jikey/p/3613082.html
+瘳雪峰的Javascript教程|http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000
+前端工程师必备的PS技能——切图篇|http://www.imooc.com/view/506
+结合个人经历总结的前端入门方法|https://github.com/qiu-deqing/FE-learning
+
 ## __团队Blog__
 
 团队Blog-Name | 地址
 :----:|:----:
-**腾讯ISUX**|http://isux.tencent.com
-__奇舞周刊__ | http://old.75team.com/weekly/
-淘宝前端团队（FED）|http://taobaofed.org
-码农周刊|http://weekly.manong.io
-凹凸实验室|https://aotu.io/
-WEB前端开发|http://www.css88.com
-A JS tip per day! |http://www.jstips.co
-腾讯全端 AlloyTeam |http://www.alloyteam.com/webdevelop/
-阿里巴巴-U一点|http://www.aliued.cn
-百度WEB前端研发部|http://fex.baidu.com
-携程设计委员会|http://ued.ctrip.com/blog/
-平安科技移动开发二队技术周报|https://github.com/PaicHyperionDev/MobileDevWeekly
+腾讯 ISUX | http://isux.tencent.com
+腾讯全端 AlloyTeam | http://www.alloyteam.com/webdevelop/
+奇舞周刊 | http://old.75team.com/weekly/
+阿里巴巴 -U 一点 | http://www.aliued.cn
+淘宝前端团队 (FED) | http://taobaofed.org
+网易 FEG 前端团队 | http://feg.netease.com/
+网易用户体验中心 | http://uedc.163.com/
+码农周刊 | http://weekly.manong.io
+凹凸实验室 ( 京东 ) | https://aotu.io/
+WEB 前端开发 | http://www.css88.com
+百度 WEB 前端研发部 | http://fex.baidu.com
+搜车大无线团队博客 | http://f2e.souche.com/blog/
+饿了么大前端 | https://zhuanlan.zhihu.com/ElemeFE
+美团点评技术团队 | https://tech.meituan.com/
+携程设计委员会 | http://ued.ctrip.com/blog/
+前端观察 ( 腾讯 ) | https://www.qianduan.net/
+前端外刊评论 | https://qianduan.group/
+Awesomes-Web 前端开发资源库 | https://www.awesomes.cn/
+掘进|发现|前端 | https://juejin.im/explore/frontend
+Segmentfault|头条|前端 | https://segmentfault.com/news/frontend
+开发者头条|前端 | https://toutiao.io/c/fe
+A JS tip per day!  | http://www.jstips.co
+CodePen - Front End Developer Playground | https://codepen.io/
+Reloading – Medium | https://medium.com/reloading
+Cybersecurity – Medium | https://medium.com/topic/cybersecurity
+Hacker Noon | https://hackernoon.com/
+Frontend Focus | https://frontendfoc.us/
+JavaScript Weekly | http://javascriptweekly.com/
+Css Weekly | http://css-weekly.com/
+Web Design Weekly | https://web-design-weekly.com/
+Web Tools Weekly | https://webtoolsweekly.com/
+Learn CSS Animation | https://cssanimation.rocks/
+Hack Design | https://hackdesign.org/
+Codeburst | https://codeburst.io/
+SitePen Blog | https://www.sitepen.com/blog/
+JavaScript Weekly ^subscribe | http://javascriptweekly.com/issues
+Frontend Focus ^subscribe | https://frontendfoc.us/issues
+WebOps Weekly ^subscribe | https://webopsweekly.com/issues
+Node Weekly ^subscribe | https://nodeweekly.com/issues
+Mobile Dev Weekly ^subscribe | https://mobilewebweekly.com/issues
+Front-end Web Development, Chewed Up &larr; Alligator.io | https://alligator.io/
 
 ## __开发中心__
 
@@ -1182,4 +1232,3 @@ SegmentFault写的Markdown解析器|https://github.com/SegmentFault/HyperDown.js
 * [SublimeText下写作利器之MarkdownEditing](http://www.jeffjade.com/2015/08/28/2015-08-28-Write-Morkdown/)
 * [Mac必备软件渐集之ZSH－终极Shell](http://www.jeffjade.com/2015/07/29/2015-07-29-mac-musthave-software/)
 * [Vimium~让您的Chrome起飞](http://www.jeffjade.com/2015/10/19/2015-10-18-chrome-vimium/)
-
